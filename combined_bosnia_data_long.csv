@@ -1,0 +1,65 @@
+code,municipality,entity,year,metric,measurement
+10014,Banovići,FBiH,2007,value,138.92
+10014,Banovići,FBiH,2008,value,139.09
+10014,Banovići,FBiH,2009,value,139.18
+10014,Banovići,FBiH,2010,value,139.38
+11215,Živinice,FBiH,2007,value,187.03
+11215,Živinice,FBiH,2008,value,188.09
+11215,Živinice,FBiH,2009,value,188.75
+11215,Živinice,FBiH,2010,value,190.05
+20010,Banja Luka,RS,2007,value,179.51
+20010,Banja Luka,RS,2008,value,180.51
+20010,Banja Luka,RS,2009,value,181.71
+20010,Banja Luka,RS,2010,value,182.79
+20028,Berkovići,RS,2007,value,11.11
+20028,Berkovići,RS,2008,value,10.97
+20028,Berkovići,RS,2009,value,10.97
+20028,Berkovići,RS,2010,value,10.94
+10014,Banovići,FBiH,2007,population_2013,22773.0
+10014,Banovići,FBiH,2008,population_2013,22773.0
+10014,Banovići,FBiH,2009,population_2013,22773.0
+10014,Banovići,FBiH,2010,population_2013,22773.0
+11215,Živinice,FBiH,2007,population_2013,57765.0
+11215,Živinice,FBiH,2008,population_2013,57765.0
+11215,Živinice,FBiH,2009,population_2013,57765.0
+11215,Živinice,FBiH,2010,population_2013,57765.0
+20010,Banja Luka,RS,2007,population_2013,185042.0
+20010,Banja Luka,RS,2008,population_2013,185042.0
+20010,Banja Luka,RS,2009,population_2013,185042.0
+20010,Banja Luka,RS,2010,population_2013,185042.0
+20028,Berkovići,RS,2007,population_2013,2114.0
+20028,Berkovići,RS,2008,population_2013,2114.0
+20028,Berkovići,RS,2009,population_2013,2114.0
+20028,Berkovići,RS,2010,population_2013,2114.0
+10014,Banovići,FBiH,2007,area_km2_2013,185.0
+10014,Banovići,FBiH,2008,area_km2_2013,185.0
+10014,Banovići,FBiH,2009,area_km2_2013,185.0
+10014,Banovići,FBiH,2010,area_km2_2013,185.0
+11215,Živinice,FBiH,2007,area_km2_2013,291.0
+11215,Živinice,FBiH,2008,area_km2_2013,291.0
+11215,Živinice,FBiH,2009,area_km2_2013,291.0
+11215,Živinice,FBiH,2010,area_km2_2013,291.0
+20010,Banja Luka,RS,2007,area_km2_2013,1238.91
+20010,Banja Luka,RS,2008,area_km2_2013,1238.91
+20010,Banja Luka,RS,2009,area_km2_2013,1238.91
+20010,Banja Luka,RS,2010,area_km2_2013,1238.91
+20028,Berkovići,RS,2007,area_km2_2013,249.69
+20028,Berkovići,RS,2008,area_km2_2013,249.69
+20028,Berkovići,RS,2009,area_km2_2013,249.69
+20028,Berkovići,RS,2010,area_km2_2013,249.69
+10014,Banovići,FBiH,2007,population_density_2013,123.1
+10014,Banovići,FBiH,2008,population_density_2013,123.1
+10014,Banovići,FBiH,2009,population_density_2013,123.1
+10014,Banovići,FBiH,2010,population_density_2013,123.1
+11215,Živinice,FBiH,2007,population_density_2013,198.51
+11215,Živinice,FBiH,2008,population_density_2013,198.51
+11215,Živinice,FBiH,2009,population_density_2013,198.51
+11215,Živinice,FBiH,2010,population_density_2013,198.51
+20010,Banja Luka,RS,2007,population_density_2013,149.36
+20010,Banja Luka,RS,2008,population_density_2013,149.36
+20010,Banja Luka,RS,2009,population_density_2013,149.36
+20010,Banja Luka,RS,2010,population_density_2013,149.36
+20028,Berkovići,RS,2007,population_density_2013,8.47
+20028,Berkovići,RS,2008,population_density_2013,8.47
+20028,Berkovići,RS,2009,population_density_2013,8.47
+20028,Berkovići,RS,2010,population_density_2013,8.47
