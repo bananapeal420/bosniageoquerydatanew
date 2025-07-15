@@ -1,0 +1,479 @@
+code,municipality,entity,year,metric,measurement
+10014,Banovići,FBiH,2007.0,value,138.92
+10014,Banovići,FBiH,2008.0,value,139.09
+10014,Banovići,FBiH,2009.0,value,139.18
+10014,Banovići,FBiH,2010.0,value,139.38
+10014,Banovići,FBiH,2013.0,area_km2_2013,185.0
+10014,Banovići,FBiH,2013.0,area_km2_2013,185.0
+10014,Banovići,FBiH,2013.0,area_km2_2013,185.0
+10014,Banovići,FBiH,2013.0,area_km2_2013,185.0
+10014,Banovići,FBiH,2013.0,population_2013,22773.0
+10014,Banovići,FBiH,2013.0,population_2013,22773.0
+10014,Banovići,FBiH,2013.0,population_2013,22773.0
+10014,Banovići,FBiH,2013.0,population_2013,22773.0
+10014,Banovići,FBiH,2013.0,population_density_2013,123.1
+10014,Banovići,FBiH,2013.0,population_density_2013,123.1
+10014,Banovići,FBiH,2013.0,population_density_2013,123.1
+10014,Banovići,FBiH,2013.0,population_density_2013,123.1
+10049,Bihać,,2013.0,area_km2_2013,900.0
+10049,Bihać,,2013.0,population_2013,56261.0
+10049,Bihać,,2013.0,population_density_2013,62.51
+10146,Bosansko Grahovo,,2013.0,area_km2_2013,780.0
+10146,Bosansko Grahovo,,2013.0,population_2013,2449.0
+10146,Bosansko Grahovo,,2013.0,population_density_2013,3.14
+10189,Breza,,2013.0,area_km2_2013,72.9
+10189,Breza,,2013.0,population_2013,14168.0
+10189,Breza,,2013.0,population_density_2013,194.35
+10197,Bugojno,,2013.0,area_km2_2013,361.0
+10197,Bugojno,,2013.0,population_2013,31470.0
+10197,Bugojno,,2013.0,population_density_2013,87.17
+10219,Busovača,,2013.0,area_km2_2013,158.0
+10219,Busovača,,2013.0,population_2013,17910.0
+10219,Busovača,,2013.0,population_density_2013,113.35
+10227,Cazin,,2013.0,area_km2_2013,356.0
+10227,Cazin,,2013.0,population_2013,66149.0
+10227,Cazin,,2013.0,population_density_2013,185.81
+10243,Čapljina,,2013.0,area_km2_2013,256.0
+10243,Čapljina,,2013.0,population_2013,26157.0
+10243,Čapljina,,2013.0,population_density_2013,102.18
+10260,Čitluk,,2013.0,area_km2_2013,181.0
+10260,Čitluk,,2013.0,population_2013,18140.0
+10260,Čitluk,,2013.0,population_density_2013,100.22
+10294,Donji Vakuf,,2013.0,area_km2_2013,320.0
+10294,Donji Vakuf,,2013.0,population_2013,13985.0
+10294,Donji Vakuf,,2013.0,population_density_2013,43.7
+10308,Tomislavgrad,,2013.0,area_km2_2013,967.4
+10308,Tomislavgrad,,2013.0,population_2013,31592.0
+10308,Tomislavgrad,,2013.0,population_density_2013,32.66
+10324,Fojnica,,2013.0,area_km2_2013,306.0
+10324,Fojnica,,2013.0,population_2013,12356.0
+10324,Fojnica,,2013.0,population_density_2013,40.38
+10359,Glamoč,,2013.0,area_km2_2013,1033.6
+10359,Glamoč,,2013.0,population_2013,3860.0
+10359,Glamoč,,2013.0,population_density_2013,3.73
+10375,Gornji Vakuf-Uskoplje,,2013.0,area_km2_2013,402.0
+10375,Gornji Vakuf-Uskoplje,,2013.0,population_2013,20933.0
+10375,Gornji Vakuf-Uskoplje,,2013.0,population_density_2013,52.07
+10391,Gradačac,,2013.0,area_km2_2013,218.0
+10391,Gradačac,,2013.0,population_2013,39340.0
+10391,Gradačac,,2013.0,population_density_2013,180.46
+10405,Grude,,2013.0,area_km2_2013,220.8
+10405,Grude,,2013.0,population_2013,17308.0
+10405,Grude,,2013.0,population_density_2013,78.39
+10421,Jablanica,,2013.0,area_km2_2013,301.0
+10421,Jablanica,,2013.0,population_2013,10111.0
+10421,Jablanica,,2013.0,population_density_2013,33.59
+10448,Kakanj,,2013.0,area_km2_2013,377.0
+10448,Kakanj,,2013.0,population_2013,37441.0
+10448,Kakanj,,2013.0,population_density_2013,99.31
+10472,Kiseljak,,2013.0,area_km2_2013,165.0
+10472,Kiseljak,,2013.0,population_2013,20722.0
+10472,Kiseljak,,2013.0,population_density_2013,125.59
+10499,Kladanj,,2013.0,area_km2_2013,331.0
+10499,Kladanj,,2013.0,population_2013,12348.0
+10499,Kladanj,,2013.0,population_density_2013,37.31
+10529,Konjic,,2013.0,area_km2_2013,1169.0
+10529,Konjic,,2013.0,population_2013,25148.0
+10529,Konjic,,2013.0,population_density_2013,21.51
+10545,Kreševo,,2013.0,area_km2_2013,149.0
+10545,Kreševo,,2013.0,population_2013,5273.0
+10545,Kreševo,,2013.0,population_density_2013,35.39
+10570,Široki Brijeg,,2013.0,area_km2_2013,387.6
+10570,Široki Brijeg,,2013.0,population_2013,28929.0
+10570,Široki Brijeg,,2013.0,population_density_2013,74.64
+10588,Livno,,2013.0,area_km2_2013,994.0
+10588,Livno,,2013.0,population_2013,34133.0
+10588,Livno,,2013.0,population_density_2013,34.34
+10600,Lukavac,,2013.0,area_km2_2013,337.0
+10600,Lukavac,,2013.0,population_2013,44520.0
+10600,Lukavac,,2013.0,population_density_2013,132.11
+10626,Ljubuški,,2013.0,area_km2_2013,292.7
+10626,Ljubuški,,2013.0,population_2013,28184.0
+10626,Ljubuški,,2013.0,population_density_2013,96.29
+10634,Maglaj,,2013.0,area_km2_2013,290.0
+10634,Maglaj,,2013.0,population_2013,23146.0
+10634,Maglaj,,2013.0,population_density_2013,79.81
+10685,Neum,,2013.0,area_km2_2013,225.0
+10685,Neum,,2013.0,population_2013,4653.0
+10685,Neum,,2013.0,population_density_2013,20.68
+10715,Olovo,,2013.0,area_km2_2013,407.8
+10715,Olovo,,2013.0,population_2013,10175.0
+10715,Olovo,,2013.0,population_density_2013,24.95
+10731,Posušje,,2013.0,area_km2_2013,461.1
+10731,Posušje,,2013.0,population_2013,20477.0
+10731,Posušje,,2013.0,population_density_2013,44.41
+10766,Prozor,,2013.0,area_km2_2013,477.0
+10766,Prozor,,2013.0,population_2013,14280.0
+10766,Prozor,,2013.0,population_density_2013,29.94
+10774,Novi Travnik,,2013.0,area_km2_2013,242.0
+10774,Novi Travnik,,2013.0,population_2013,23832.0
+10774,Novi Travnik,,2013.0,population_density_2013,98.48
+10839,Centar Sarajevo,,2013.0,area_km2_2013,33.0
+10839,Centar Sarajevo,,2013.0,population_2013,55181.0
+10839,Centar Sarajevo,,2013.0,population_density_2013,1672.15
+10847,Hadžići,,2013.0,area_km2_2013,273.3
+10847,Hadžići,,2013.0,population_2013,23891.0
+10847,Hadžići,,2013.0,population_density_2013,87.42
+10863,Ilijaš,,2013.0,area_km2_2013,308.6
+10863,Ilijaš,,2013.0,population_2013,19603.0
+10863,Ilijaš,,2013.0,population_density_2013,63.52
+10871,Novi Grad Sarajevo,,2013.0,area_km2_2013,47.2
+10871,Novi Grad Sarajevo,,2013.0,population_2013,118553.0
+10871,Novi Grad Sarajevo,,2013.0,population_density_2013,2511.72
+10928,Vogošća,,2013.0,area_km2_2013,71.7
+10928,Vogošća,,2013.0,population_2013,26343.0
+10928,Vogošća,,2013.0,population_density_2013,367.41
+10987,Srebrenik,,2013.0,area_km2_2013,248.0
+10987,Srebrenik,,2013.0,population_2013,39678.0
+10987,Srebrenik,,2013.0,population_density_2013,159.99
+11045,Tešanj,,2013.0,area_km2_2013,155.9
+11045,Tešanj,,2013.0,population_2013,43063.0
+11045,Tešanj,,2013.0,population_density_2013,276.22
+11061,Travnik,,2013.0,area_km2_2013,529.0
+11061,Travnik,,2013.0,population_2013,53482.0
+11061,Travnik,,2013.0,population_density_2013,101.1
+11088,Tuzla,,2013.0,area_km2_2013,294.0
+11088,Tuzla,,2013.0,population_2013,110979.0
+11088,Tuzla,,2013.0,population_density_2013,377.48
+11100,Vareš,,2013.0,area_km2_2013,390.1
+11100,Vareš,,2013.0,population_2013,8892.0
+11100,Vareš,,2013.0,population_density_2013,22.79
+11118,Velika Kladuša,,2013.0,area_km2_2013,331.0
+11118,Velika Kladuša,,2013.0,population_2013,40419.0
+11118,Velika Kladuša,,2013.0,population_density_2013,122.11
+11126,Visoko,,2013.0,area_km2_2013,230.8
+11126,Visoko,,2013.0,population_2013,39938.0
+11126,Visoko,,2013.0,population_density_2013,173.04
+11142,Vitez,,2013.0,area_km2_2013,159.0
+11142,Vitez,,2013.0,population_2013,25836.0
+11142,Vitez,,2013.0,population_density_2013,162.49
+11177,Zavidovići,,2013.0,area_km2_2013,590.3
+11177,Zavidovići,,2013.0,population_2013,35988.0
+11177,Zavidovići,,2013.0,population_density_2013,60.97
+11185,Zenica,,2013.0,area_km2_2013,558.5
+11185,Zenica,,2013.0,population_2013,110663.0
+11185,Zenica,,2013.0,population_density_2013,198.14
+11207,Žepče,,2013.0,area_km2_2013,282.0
+11207,Žepče,,2013.0,population_2013,30219.0
+11207,Žepče,,2013.0,population_density_2013,107.16
+11215,Živinice,FBiH,2007.0,value,187.03
+11215,Živinice,FBiH,2008.0,value,188.09
+11215,Živinice,FBiH,2009.0,value,188.75
+11215,Živinice,FBiH,2010.0,value,190.05
+11215,Živinice,FBiH,2013.0,area_km2_2013,291.0
+11215,Živinice,FBiH,2013.0,area_km2_2013,291.0
+11215,Živinice,FBiH,2013.0,area_km2_2013,291.0
+11215,Živinice,FBiH,2013.0,area_km2_2013,291.0
+11215,Živinice,FBiH,2013.0,population_2013,57765.0
+11215,Živinice,FBiH,2013.0,population_2013,57765.0
+11215,Živinice,FBiH,2013.0,population_2013,57765.0
+11215,Živinice,FBiH,2013.0,population_2013,57765.0
+11215,Živinice,FBiH,2013.0,population_density_2013,198.51
+11215,Živinice,FBiH,2013.0,population_density_2013,198.51
+11215,Živinice,FBiH,2013.0,population_density_2013,198.51
+11215,Živinice,FBiH,2013.0,population_density_2013,198.51
+11231,Čelić,,2013.0,area_km2_2013,140.0
+11231,Čelić,,2013.0,population_2013,10502.0
+11231,Čelić,,2013.0,population_density_2013,75.01
+11240,Bužim,,2013.0,area_km2_2013,129.0
+11240,Bužim,,2013.0,population_2013,19340.0
+11240,Bužim,,2013.0,population_density_2013,149.92
+11258,Doboj-Istok,,2013.0,area_km2_2013,41.0
+11258,Doboj-Istok,,2013.0,population_2013,10248.0
+11258,Doboj-Istok,,2013.0,population_density_2013,249.95
+11266,Doboj-Jug,,2013.0,area_km2_2013,10.2
+11266,Doboj-Jug,,2013.0,population_2013,4137.0
+11266,Doboj-Jug,,2013.0,population_density_2013,405.59
+11274,Dobretići,,2013.0,area_km2_2013,59.0
+11274,Dobretići,,2013.0,population_2013,1629.0
+11274,Dobretići,,2013.0,population_density_2013,27.61
+11282,Domaljevac-Šamac,,2013.0,area_km2_2013,44.4
+11282,Domaljevac-Šamac,,2013.0,population_2013,4771.0
+11282,Domaljevac-Šamac,,2013.0,population_density_2013,107.45
+11304,Ravno,,2013.0,area_km2_2013,286.0
+11304,Ravno,,2013.0,population_2013,3219.0
+11304,Ravno,,2013.0,population_density_2013,11.26
+11312,Sapna,,2013.0,area_km2_2013,118.0
+11312,Sapna,,2013.0,population_2013,11178.0
+11312,Sapna,,2013.0,population_density_2013,94.73
+11339,Teočak,,2013.0,area_km2_2013,29.0
+11339,Teočak,,2013.0,population_2013,7424.0
+11339,Teočak,,2013.0,population_density_2013,256.0
+11410,Grad Mostar,,2013.0,area_km2_2013,1175.0
+11410,Grad Mostar,,2013.0,population_2013,105797.0
+11410,Grad Mostar,,2013.0,population_density_2013,90.04
+11428,Bosanska Krupa,,2013.0,area_km2_2013,561.0
+11428,Bosanska Krupa,,2013.0,population_2013,25545.0
+11428,Bosanska Krupa,,2013.0,population_density_2013,45.53
+11436,Bosanski Petrovac,,2013.0,area_km2_2013,709.0
+11436,Bosanski Petrovac,,2013.0,population_2013,7328.0
+11436,Bosanski Petrovac,,2013.0,population_density_2013,10.34
+11444,Foča (FBIH),,2013.0,area_km2_2013,169.4
+11444,Foča (FBIH),,2013.0,population_2013,1933.0
+11444,Foča (FBIH),,2013.0,population_density_2013,11.41
+11452,Goražde,,2013.0,area_km2_2013,248.8
+11452,Goražde,,2013.0,population_2013,20897.0
+11452,Goražde,,2013.0,population_density_2013,83.99
+11479,Gračanica,,2013.0,area_km2_2013,216.0
+11479,Gračanica,,2013.0,population_2013,45220.0
+11479,Gračanica,,2013.0,population_density_2013,209.35
+11487,Jajce,,2013.0,area_km2_2013,339.0
+11487,Jajce,,2013.0,population_2013,27258.0
+11487,Jajce,,2013.0,population_density_2013,80.41
+11495,Kalesija,,2013.0,area_km2_2013,201.0
+11495,Kalesija,,2013.0,population_2013,33053.0
+11495,Kalesija,,2013.0,population_density_2013,164.44
+11509,Ključ,,2013.0,area_km2_2013,358.0
+11509,Ključ,,2013.0,population_2013,16744.0
+11509,Ključ,,2013.0,population_density_2013,46.77
+11517,Kupres (FBIH),,2013.0,area_km2_2013,569.8
+11517,Kupres (FBIH),,2013.0,population_2013,5057.0
+11517,Kupres (FBIH),,2013.0,population_density_2013,8.88
+11525,Odžak,,2013.0,area_km2_2013,158.4
+11525,Odžak,,2013.0,population_2013,18821.0
+11525,Odžak,,2013.0,population_density_2013,118.82
+11533,Orašje,,2013.0,area_km2_2013,121.8
+11533,Orašje,,2013.0,population_2013,19861.0
+11533,Orašje,,2013.0,population_density_2013,163.06
+11541,Sanski Most,,2013.0,area_km2_2013,781.0
+11541,Sanski Most,,2013.0,population_2013,41475.0
+11541,Sanski Most,,2013.0,population_density_2013,53.1
+11550,Ilidža,,2013.0,area_km2_2013,143.4
+11550,Ilidža,,2013.0,population_2013,66730.0
+11550,Ilidža,,2013.0,population_density_2013,465.34
+11568,Novo Sarajevo,,2013.0,area_km2_2013,9.9
+11568,Novo Sarajevo,,2013.0,population_2013,64814.0
+11568,Novo Sarajevo,,2013.0,population_density_2013,6546.87
+11576,Pale (FBIH),,2013.0,area_km2_2013,86.4
+11576,Pale (FBIH),,2013.0,population_2013,904.0
+11576,Pale (FBIH),,2013.0,population_density_2013,10.46
+11584,Stari Grad Sarajevo,,2013.0,area_km2_2013,51.4
+11584,Stari Grad Sarajevo,,2013.0,population_2013,36976.0
+11584,Stari Grad Sarajevo,,2013.0,population_density_2013,719.38
+11592,Trnovo (FBIH),,2013.0,area_km2_2013,338.4
+11592,Trnovo (FBIH),,2013.0,population_2013,1502.0
+11592,Trnovo (FBIH),,2013.0,population_density_2013,4.44
+11606,Stolac,,2013.0,area_km2_2013,331.0
+11606,Stolac,,2013.0,population_2013,14502.0
+11606,Stolac,,2013.0,population_density_2013,43.81
+11614,Drvar,,2013.0,area_km2_2013,589.3
+11614,Drvar,,2013.0,population_2013,7036.0
+11614,Drvar,,2013.0,population_density_2013,11.94
+11622,Usora,,2013.0,area_km2_2013,49.8
+11622,Usora,,2013.0,population_2013,6603.0
+11622,Usora,,2013.0,population_density_2013,132.59
+20010,Banja Luka,RS,2007.0,value,179.51
+20010,Banja Luka,RS,2008.0,value,180.51
+20010,Banja Luka,RS,2009.0,value,181.71
+20010,Banja Luka,RS,2010.0,value,182.79
+20010,Banja Luka,RS,2013.0,area_km2_2013,1238.91
+20010,Banja Luka,RS,2013.0,area_km2_2013,1238.91
+20010,Banja Luka,RS,2013.0,area_km2_2013,1238.91
+20010,Banja Luka,RS,2013.0,area_km2_2013,1238.91
+20010,Banja Luka,RS,2013.0,population_2013,185042.0
+20010,Banja Luka,RS,2013.0,population_2013,185042.0
+20010,Banja Luka,RS,2013.0,population_2013,185042.0
+20010,Banja Luka,RS,2013.0,population_2013,185042.0
+20010,Banja Luka,RS,2013.0,population_density_2013,149.36
+20010,Banja Luka,RS,2013.0,population_density_2013,149.36
+20010,Banja Luka,RS,2013.0,population_density_2013,149.36
+20010,Banja Luka,RS,2013.0,population_density_2013,149.36
+20028,Berkovići,RS,2007.0,value,11.11
+20028,Berkovići,RS,2008.0,value,10.97
+20028,Berkovići,RS,2009.0,value,10.97
+20028,Berkovići,RS,2010.0,value,10.94
+20028,Berkovići,RS,2013.0,area_km2_2013,249.69
+20028,Berkovići,RS,2013.0,area_km2_2013,249.69
+20028,Berkovići,RS,2013.0,area_km2_2013,249.69
+20028,Berkovići,RS,2013.0,area_km2_2013,249.69
+20028,Berkovići,RS,2013.0,population_2013,2114.0
+20028,Berkovići,RS,2013.0,population_2013,2114.0
+20028,Berkovići,RS,2013.0,population_2013,2114.0
+20028,Berkovići,RS,2013.0,population_2013,2114.0
+20028,Berkovići,RS,2013.0,population_density_2013,8.47
+20028,Berkovići,RS,2013.0,population_density_2013,8.47
+20028,Berkovići,RS,2013.0,population_density_2013,8.47
+20028,Berkovići,RS,2013.0,population_density_2013,8.47
+20036,Bijeljina,,2013.0,area_km2_2013,733.85
+20036,Bijeljina,,2013.0,population_2013,107715.0
+20036,Bijeljina,,2013.0,population_density_2013,146.78
+20044,Bileća,,2013.0,area_km2_2013,632.33
+20044,Bileća,,2013.0,population_2013,10807.0
+20044,Bileća,,2013.0,population_density_2013,17.09
+20052,Bratunac,,2013.0,area_km2_2013,293.49
+20052,Bratunac,,2013.0,population_2013,20340.0
+20052,Bratunac,,2013.0,population_density_2013,69.3
+20079,Brod,,2013.0,area_km2_2013,229.3
+20079,Brod,,2013.0,population_2013,16619.0
+20079,Brod,,2013.0,population_density_2013,72.48
+20087,Višegrad,,2013.0,area_km2_2013,448.14
+20087,Višegrad,,2013.0,population_2013,10668.0
+20087,Višegrad,,2013.0,population_density_2013,23.81
+20095,Vlasenica,,2013.0,area_km2_2013,225.32
+20095,Vlasenica,,2013.0,population_2013,11467.0
+20095,Vlasenica,,2013.0,population_density_2013,50.89
+20109,Vukosavlje,,2013.0,area_km2_2013,94.9
+20109,Vukosavlje,,2013.0,population_2013,4667.0
+20109,Vukosavlje,,2013.0,population_density_2013,49.18
+20117,Gacko,,2013.0,area_km2_2013,735.88
+20117,Gacko,,2013.0,population_2013,8990.0
+20117,Gacko,,2013.0,population_density_2013,12.22
+20125,Gradiška,,2013.0,area_km2_2013,761.74
+20125,Gradiška,,2013.0,population_2013,51727.0
+20125,Gradiška,,2013.0,population_density_2013,67.91
+20133,Derventa,,2013.0,area_km2_2013,516.84
+20133,Derventa,,2013.0,population_2013,27404.0
+20133,Derventa,,2013.0,population_density_2013,53.02
+20141,Doboj,,2013.0,area_km2_2013,772.09
+20141,Doboj,,2013.0,population_2013,71441.0
+20141,Doboj,,2013.0,population_density_2013,92.53
+20150,Donji Žabar,,2013.0,area_km2_2013,46.76
+20150,Donji Žabar,,2013.0,population_2013,3809.0
+20150,Donji Žabar,,2013.0,population_density_2013,81.46
+20168,Zvornik,,2013.0,area_km2_2013,376.14
+20168,Zvornik,,2013.0,population_2013,58856.0
+20168,Zvornik,,2013.0,population_density_2013,156.47
+20176,Istočna Ilidža,,2013.0,area_km2_2013,27.9
+20176,Istočna Ilidža,,2013.0,population_2013,14763.0
+20176,Istočna Ilidža,,2013.0,population_density_2013,529.14
+20184,Istočni Drvar,,2013.0,area_km2_2013,75.3
+20184,Istočni Drvar,,2013.0,population_2013,79.0
+20184,Istočni Drvar,,2013.0,population_density_2013,1.05
+20192,Istočni Mostar,,2013.0,area_km2_2013,85.24
+20192,Istočni Mostar,,2013.0,population_2013,257.0
+20192,Istočni Mostar,,2013.0,population_density_2013,3.02
+20206,Istočni Stari Grad,,2013.0,area_km2_2013,69.84
+20206,Istočni Stari Grad,,2013.0,population_2013,1131.0
+20206,Istočni Stari Grad,,2013.0,population_density_2013,16.19
+20214,Istočno Novo Sarajevo,,2013.0,area_km2_2013,34.69
+20214,Istočno Novo Sarajevo,,2013.0,population_2013,10642.0
+20214,Istočno Novo Sarajevo,,2013.0,population_density_2013,306.77
+20222,Jezero,,2013.0,area_km2_2013,55.6
+20222,Jezero,,2013.0,population_2013,1144.0
+20222,Jezero,,2013.0,population_density_2013,20.58
+20249,Kalinovik,,2013.0,area_km2_2013,681.15
+20249,Kalinovik,,2013.0,population_2013,2029.0
+20249,Kalinovik,,2013.0,population_density_2013,2.98
+20257,Kneževo,,2013.0,area_km2_2013,332.9
+20257,Kneževo,,2013.0,population_2013,9793.0
+20257,Kneževo,,2013.0,population_density_2013,29.42
+20265,Kozarska Dubica,,2013.0,area_km2_2013,499.01
+20265,Kozarska Dubica,,2013.0,population_2013,21524.0
+20265,Kozarska Dubica,,2013.0,population_density_2013,43.13
+20273,Kostajnica,,2013.0,area_km2_2013,85.12
+20273,Kostajnica,,2013.0,population_2013,5977.0
+20273,Kostajnica,,2013.0,population_density_2013,70.22
+20281,Kotor Varoš,,2013.0,area_km2_2013,564.26
+20281,Kotor Varoš,,2013.0,population_2013,19710.0
+20281,Kotor Varoš,,2013.0,population_density_2013,34.93
+20290,Krupa na Uni,,2013.0,area_km2_2013,84.33
+20290,Krupa na Uni,,2013.0,population_2013,1597.0
+20290,Krupa na Uni,,2013.0,population_density_2013,18.94
+20303,Kupres (RS),,2013.0,area_km2_2013,47.8
+20303,Kupres (RS),,2013.0,population_2013,300.0
+20303,Kupres (RS),,2013.0,population_density_2013,6.28
+20311,Laktaši,,2013.0,area_km2_2013,388.37
+20311,Laktaši,,2013.0,population_2013,34966.0
+20311,Laktaši,,2013.0,population_density_2013,90.03
+20320,Lopare,,2013.0,area_km2_2013,292.55
+20320,Lopare,,2013.0,population_2013,15357.0
+20320,Lopare,,2013.0,population_density_2013,52.49
+20338,Ljubinje,,2013.0,area_km2_2013,319.07
+20338,Ljubinje,,2013.0,population_2013,3511.0
+20338,Ljubinje,,2013.0,population_density_2013,11.0
+20346,Milići,,2013.0,area_km2_2013,279.13
+20346,Milići,,2013.0,population_2013,11441.0
+20346,Milići,,2013.0,population_density_2013,40.99
+20354,Modriča,,2013.0,area_km2_2013,319.8
+20354,Modriča,,2013.0,population_2013,25720.0
+20354,Modriča,,2013.0,population_density_2013,80.43
+20362,Mrkonjić Grad,,2013.0,area_km2_2013,677.43
+20362,Mrkonjić Grad,,2013.0,population_2013,16671.0
+20362,Mrkonjić Grad,,2013.0,population_density_2013,24.61
+20389,Nevesinje,,2013.0,area_km2_2013,877.08
+20389,Nevesinje,,2013.0,population_2013,12961.0
+20389,Nevesinje,,2013.0,population_density_2013,14.78
+20397,Novi Grad,,2013.0,area_km2_2013,472.72
+20397,Novi Grad,,2013.0,population_2013,27115.0
+20397,Novi Grad,,2013.0,population_density_2013,57.36
+20419,Novo Goražde,,2013.0,area_km2_2013,119.0
+20419,Novo Goražde,,2013.0,population_2013,3117.0
+20419,Novo Goražde,,2013.0,population_density_2013,26.19
+20427,Osmaci,,2013.0,area_km2_2013,78.1
+20427,Osmaci,,2013.0,population_2013,6016.0
+20427,Osmaci,,2013.0,population_density_2013,77.03
+20435,Oštra Luka,,2013.0,area_km2_2013,204.91
+20435,Oštra Luka,,2013.0,population_2013,2786.0
+20435,Oštra Luka,,2013.0,population_density_2013,13.6
+20443,Pale (RS),,2013.0,area_km2_2013,492.8
+20443,Pale (RS),,2013.0,population_2013,20909.0
+20443,Pale (RS),,2013.0,population_density_2013,42.43
+20451,Pelagićevo,,2013.0,area_km2_2013,122.49
+20451,Pelagićevo,,2013.0,population_2013,5220.0
+20451,Pelagićevo,,2013.0,population_density_2013,42.62
+20460,Petrovac,,2013.0,area_km2_2013,154.9
+20460,Petrovac,,2013.0,population_2013,361.0
+20460,Petrovac,,2013.0,population_density_2013,2.33
+20478,Petrovo,,2013.0,area_km2_2013,143.9
+20478,Petrovo,,2013.0,population_2013,6474.0
+20478,Petrovo,,2013.0,population_density_2013,44.99
+20486,Prijedor,,2013.0,area_km2_2013,834.06
+20486,Prijedor,,2013.0,population_2013,89397.0
+20486,Prijedor,,2013.0,population_density_2013,107.18
+20494,Prnjavor,,2013.0,area_km2_2013,629.95
+20494,Prnjavor,,2013.0,population_2013,35956.0
+20494,Prnjavor,,2013.0,population_density_2013,57.08
+20508,Ribnik,,2013.0,area_km2_2013,511.1
+20508,Ribnik,,2013.0,population_2013,6048.0
+20508,Ribnik,,2013.0,population_density_2013,11.83
+20516,Rogatica,,2013.0,area_km2_2013,645.0
+20516,Rogatica,,2013.0,population_2013,10723.0
+20516,Rogatica,,2013.0,population_density_2013,16.62
+20524,Rudo,,2013.0,area_km2_2013,347.63
+20524,Rudo,,2013.0,population_2013,7963.0
+20524,Rudo,,2013.0,population_density_2013,22.91
+20532,Sokolac,,2013.0,area_km2_2013,693.45
+20532,Sokolac,,2013.0,population_2013,12021.0
+20532,Sokolac,,2013.0,population_density_2013,17.34
+20559,Srbac,,2013.0,area_km2_2013,452.51
+20559,Srbac,,2013.0,population_2013,17587.0
+20559,Srbac,,2013.0,population_density_2013,38.87
+20567,Srebrenica,,2013.0,area_km2_2013,526.83
+20567,Srebrenica,,2013.0,population_2013,13409.0
+20567,Srebrenica,,2013.0,population_density_2013,25.45
+20575,Teslić,,2013.0,area_km2_2013,837.97
+20575,Teslić,,2013.0,population_2013,38536.0
+20575,Teslić,,2013.0,population_density_2013,45.99
+20583,Trebinje,,2013.0,area_km2_2013,854.5
+20583,Trebinje,,2013.0,population_2013,29198.0
+20583,Trebinje,,2013.0,population_density_2013,34.17
+20591,Trnovo (RS),,2013.0,area_km2_2013,116.2
+20591,Trnovo (RS),,2013.0,population_2013,2050.0
+20591,Trnovo (RS),,2013.0,population_density_2013,17.64
+20605,Ugljevik,,2013.0,area_km2_2013,165.17
+20605,Ugljevik,,2013.0,population_2013,15710.0
+20605,Ugljevik,,2013.0,population_density_2013,95.11
+20613,Foča (RS),,2013.0,area_km2_2013,1134.58
+20613,Foča (RS),,2013.0,population_2013,18288.0
+20613,Foča (RS),,2013.0,population_density_2013,16.12
+20621,Han Pijesak,,2013.0,area_km2_2013,322.9
+20621,Han Pijesak,,2013.0,population_2013,3530.0
+20621,Han Pijesak,,2013.0,population_density_2013,10.93
+20630,Čajniče,,2013.0,area_km2_2013,274.6
+20630,Čajniče,,2013.0,population_2013,4895.0
+20630,Čajniče,,2013.0,population_density_2013,17.83
+20648,Čelinac,,2013.0,area_km2_2013,361.81
+20648,Čelinac,,2013.0,population_2013,15548.0
+20648,Čelinac,,2013.0,population_density_2013,42.97
+20656,Šamac,,2013.0,area_km2_2013,177.54
+20656,Šamac,,2013.0,population_2013,17273.0
+20656,Šamac,,2013.0,population_density_2013,97.29
+20664,Šekovići,,2013.0,area_km2_2013,237.2
+20664,Šekovići,,2013.0,population_2013,6761.0
+20664,Šekovići,,2013.0,population_density_2013,28.5
+20672,Šipovo,,2013.0,area_km2_2013,553.41
+20672,Šipovo,,2013.0,population_2013,10293.0
+20672,Šipovo,,2013.0,population_density_2013,18.6
+30163,Brčko,,2013.0,area_km2_2013,402.0
+30163,Brčko,,2013.0,population_2013,83516.0
+30163,Brčko,,2013.0,population_density_2013,207.75
